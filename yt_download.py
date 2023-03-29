@@ -2,7 +2,7 @@ from pytube import YouTube
 from pytube import Playlist
 
 url = input('Insera a url da playlist: \n>>> ')
-path_save = input('\n\nInforme o caminho para salvar os vídeos: \n>>> ')
+path_save = input('\n\nInforme o caminho para salvar os videos: \n>>> ')
 
 
 #link of the video to be downloaded
